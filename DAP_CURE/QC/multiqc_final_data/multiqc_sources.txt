@@ -1,0 +1,16 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	Sc-4J-b_S3_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/Sc-4J-b_S3_1.final.clean_fastqc.zip
+FastQC	all_sections	WT-2A-a_S11_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/WT-2A-a_S11_1.final.clean_fastqc.zip
+FastQC	all_sections	WT-2A-b_S12_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/WT-2A-b_S12_1.final.clean_fastqc.zip
+FastQC	all_sections	Sc-24-e_S16_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/Sc-24-e_S16_1.final.clean_fastqc.zip
+FastQC	all_sections	Sc-2A-b_S5_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/Sc-2A-b_S5_1.final.clean_fastqc.zip
+FastQC	all_sections	WT-24-c_S8_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/WT-24-c_S8_1.final.clean_fastqc.zip
+FastQC	all_sections	Undetermined_S0_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/Undetermined_S0_1.final.clean_fastqc.zip
+FastQC	all_sections	Sc-2A-c_S6_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/Sc-2A-c_S6_1.final.clean_fastqc.zip
+FastQC	all_sections	Sc-4J-a_S2_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/Sc-4J-a_S2_1.final.clean_fastqc.zip
+FastQC	all_sections	Sc-24-a_S1_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/Sc-24-a_S1_1.final.clean_fastqc.zip
+FastQC	all_sections	Sc-4J-e_S17_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/Sc-4J-e_S17_1.final.clean_fastqc.zip
+FastQC	all_sections	Sc-2A-a_S4_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/Sc-2A-a_S4_1.final.clean_fastqc.zip
+FastQC	all_sections	WT-24-d_S14_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/WT-24-d_S14_1.final.clean_fastqc.zip
+FastQC	all_sections	WT-24-a_S7_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/WT-24-a_S7_1.final.clean_fastqc.zip
+FastQC	all_sections	Sc-24-c_S18_1.final	/scratch365/ithomps3/ND_BIO60132_Sp24/Analysis/01_Quality_Control/single_read/fastqc_final/Sc-24-c_S18_1.final.clean_fastqc.zip
